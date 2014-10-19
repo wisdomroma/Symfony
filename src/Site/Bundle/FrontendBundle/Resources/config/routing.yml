@@ -1,0 +1,27 @@
+site_frontend_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: SiteFrontendBundle:Default:index }
+
+index:
+    path:     /
+    defaults: { _controller: SiteFrontendBundle:Home:index }
+
+onenew:
+    path:     /news/{id}
+    defaults: { _controller: SiteFrontendBundle:Home:onenew }
+    
+news_list:
+    path:     /category/{id}
+    defaults: { _controller: SiteFrontendBundle:Home:category }
+    
+news_month:
+    path:     /month/{month}
+    defaults: { _controller: SiteFrontendBundle:Home:month }
+    
+news_tomorrow:
+    path:     /tomorrow
+    defaults: { _controller: SiteFrontendBundle:Home:tomorrow }
+    
+news_post:
+    path:     /post/{id}
+    defaults: { _controller: SiteFrontendBundle:Home:post }

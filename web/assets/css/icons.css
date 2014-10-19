@@ -1,0 +1,134 @@
+.icon,
+.icon_weather {
+	background: url(../img/sprite.png) no-repeat;
+	vertical-align: middle;
+	
+	display: inline-block;
+	position: relative;
+}
+
+.icon_diff_nochange {
+	background-position: -30px 0;
+	width: 5px; height: 5px;
+
+	margin-right: 4px;
+	top: -1px;
+}
+.icon_diff_up {
+	background-position: -45px 0;
+	width: 8px; height: 5px;
+
+	margin-right: 4px;
+	top: -1px;
+}
+.icon_diff_down {
+	background-position: -30px -15px;
+	width: 8px; height: 5px;
+
+	margin-right: 4px;
+	top: -1px;
+}
+.icon_feed {
+	background-position: -30px -30px;
+	width: 11px; height: 17px;
+
+	margin-right: 2px;
+	top: -1px;
+}
+
+.icon_weather {
+	background: url(../img/sprite_weathers.png) no-repeat;
+}
+
+.icon_weather_1 {
+	background-position: 0 0;
+	width: 48px; height: 30px;
+}
+.icon_weather_2 {
+	background-position: -60px 0;
+	width: 49px; height: 35px;
+}
+.icon_weather_3 {
+	background-position: -120px 0;
+	width: 48px; height: 47px;
+}
+.icon_weather_4 {
+	background-position: -180px 0;
+	width: 38px; height: 45px;
+}
+.icon_weather_5 {
+	background-position: -220px 0;
+	width: 40px; height: 38px;
+}
+.icon_weather_6 {
+	background-position: -280px 0;
+	width: 39px; height: 47px;
+}
+.icon_weather_7 {
+	background-position: -320px 0;
+	width: 47px; height: 44px;
+}
+.icon_weather_8 {
+	background-position: -380px 0;
+	width: 47px; height: 43px;
+}
+.icon_weather_9 {
+	background-position: -440px 0;
+	width: 37px; height: 45px;
+}
+.icon_weather_10 {
+	background-position: -480px 0;
+	width: 41px; height: 46px;
+}
+.icon_weather_11 {
+	background-position: -540px 0;
+	width: 46px; height: 42px;
+}
+.icon_weather_12 {
+	background-position: -600px 0;
+	width: 46px; height: 43px;
+}
+.icon_weather_13 {
+	background-position: -660px 0;
+	width: 46px; height: 47px;
+}
+.icon_weather_14 {
+	background-position: -720px 0;
+	width: 32px; height: 38px;
+}
+.icon_weather_15 {
+	background-position: -760px 0;
+	width: 47px; height: 40px;
+}
+.icon_weather_16 {
+	background-position: -820px 0;
+	width: 47px; height: 39px;
+}
+.icon_weather_17 {
+	background-position: -880px 0;
+	width: 48px; height: 30px;
+}
+.icon_weather_18 {
+	background-position: -940px 0;
+	width: 39px; height: 40px;
+}
+.icon_weather_19 {
+	background-position: -980px 0;
+	width: 49px; height: 35px;
+}
+.icon_weather_20 {
+	background-position: -1040px 0;
+	width: 48px; height: 39px;
+}
+.icon_weather_21 {
+	background-position: -1100px 0;
+	width: 44px; height: 47px;
+}
+.icon_weather_22 {
+	background-position: -1160px 0;
+	width: 39px; height: 39px;
+}
+.icon_weather_23 {
+	background-position: -1220px 0;
+	width: 25px; height: 47px;
+}

@@ -1,0 +1,4 @@
+site_frontend:
+    resource: "@SiteFrontendBundle/Resources/config/routing.yml"
+    prefix:   /
+
